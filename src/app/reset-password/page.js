@@ -17,7 +17,8 @@ import {
   Storage,
 } from "appwrite";
 export const config = {
-  endpoint: "https://cloud.appwrite.io/v1",
+  endpoint: "https://fra.cloud.appwrite.io/v1",
+  // endpoint: "https://cloud.appwrite.io/v1",
   platform: "com.company.VoxifyApp",
   projectId: "6781ffea00354ecae5ca",
   databaseId: "678225de0029c6d82768",
