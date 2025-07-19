@@ -11,10 +11,16 @@
   "dependencies": {
     "appwrite": "^18.1.1",
     "formidable": "^3.5.4",
+    "mammoth": "^1.9.1",
     "next": "15.3.5",
     "pdf-parse": "^1.1.1",
+    "pdf2pic": "^3.2.0",
+    "pdfjs-dist": "^5.3.93",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "tesseract.js": "^6.0.1",
+    "xlsx": "^0.18.5",
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
