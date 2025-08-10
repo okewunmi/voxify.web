@@ -360,7 +360,7 @@ export default function DocumentUpload() {
       <h1 className="text-3xl font-bold mb-6 text-center">Document Text Extractor</h1>
       
       {/* First Ad - After title */}
-      <AdSenseAd />
+      {/* <AdSenseAd /> */}
       
       {/* File Upload Area */}
       <div 
