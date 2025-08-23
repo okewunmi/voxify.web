@@ -492,7 +492,7 @@
 // //     </div>
 // //   );
 // // }
-
+'use client';
 import React, { useState } from 'react';
 import { Copy, Download, FileText, Code, Play, Book, ChevronRight, CheckCircle } from 'lucide-react';
 
